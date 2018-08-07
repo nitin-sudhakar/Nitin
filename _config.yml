@@ -1,6 +1,6 @@
 # main text of home
-name: Muhammed Shibin
-bio: mail@shibin.co
+name: Nitin Sudhakar
+bio: nitinsgood@gmail.com
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -22,7 +22,7 @@ url: https://koppl.in/indigo
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-## analytics-google: 'UA-106204942-1'
+## analytics-google: 'U-6204942-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
