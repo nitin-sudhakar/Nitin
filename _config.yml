@@ -1,6 +1,6 @@
 # main text of home
-name: Nitin Sudhakar
-bio: nitinsgood@gmail.com
+name: Muhammed Shibin
+bio: mail@shibin.co
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,11 +8,11 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/nitin.jpg
+picture: assets/images/shibin.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -22,7 +22,7 @@ url: https://koppl.in/indigo
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+## analytics-google: 'UA-106204942-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -34,24 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: shibinco
+twitter: shibinco
 # google: mygoogle
-# instagram: myinstagram
+instagram: shibin.co
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: shibinco
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
-# gitlab: mygitlab
+github: shibinco
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 5859831/muhammed-shibin
 # quora: userquora
 # reddit: username
-medium: medium
+medium: shibinco
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: mail@shibin.co
 
 authors:
     johndoe:
@@ -77,11 +76,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+about: false
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -106,7 +105,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
