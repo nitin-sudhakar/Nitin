@@ -1,6 +1,7 @@
 # main text of home
 name: Nitin Sudhakar
-bio: nitinsgood@gmail.com
+bio: hello@nitinsudhakar.com (+91) 9424213963
+
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,23 +35,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: shibinco
-twitter: shibinco
+facebook: profile.nitin
+twitter: nitin_sudhakar_
 # google: mygoogle
-instagram: shibin.co
+instagram: nitin.sudhakar
 # pinterest: mypinterest
-linkedin: shibinco
+linkedin: nitin-sudhakar
 # youtube: myyoutube
 # spotify: myspotify
-github: shibinco
+# github: shibinco
 # lastfm: mylastfm
-stackoverflow: 5859831/muhammed-shibin
+# stackoverflow: 5859831/muhammed-shibin
 # quora: userquora
 # reddit: username
-medium: shibinco
+# medium: shibinco
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: mail@shibin.co
+email: hello@nitinsudhakar.com
 
 authors:
     johndoe:
